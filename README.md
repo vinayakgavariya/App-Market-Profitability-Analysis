@@ -15,6 +15,6 @@ This data science project analyzes scraped app data from the Google Play Store a
 
 ## Project Notebook
 
-You can find the detailed analysis and insights in my Jupyter notebook [here]().
+You can find the detailed analysis and insights in my Jupyter notebook [here](https://github.com/vinayakgavariya/App-Market-Profitability-Analysis/blob/main/android_ios_apps_data_analysis.ipynb).
 
 
